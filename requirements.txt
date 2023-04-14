@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+kafka-python
+pandas
+boto3
+autopep8
